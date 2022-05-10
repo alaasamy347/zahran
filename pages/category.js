@@ -126,7 +126,7 @@ const CategoryDetails = () => {
       {/* Bread Cramp */}
       <ul className={styles.breadcrumb}>
         <li className={styles["breadcrumb-item"]}>
-          <Link href="/category">
+          <Link href="/">
             <a>Grocery</a>
           </Link>
         </li>
@@ -135,7 +135,7 @@ const CategoryDetails = () => {
             icon={faAngleDoubleRight}
             className={styles["breadcrumb-separator"]}
           />
-          <Link href="/category">
+          <Link href="/">
             <a>Home Care &amp; Cleaning</a>
           </Link>
         </li>
@@ -166,7 +166,7 @@ const CategoryDetails = () => {
           }}
         >
           {[1, 2, 3, 4, 5, 6].map((el) => (
-            <Link href="/category" key={el}>
+            <Link href="/" key={el}>
               <a className={styles["category-slider-item"]}>
                 <Image
                   src="/images/offer-1.jpg"
@@ -203,9 +203,7 @@ const CategoryDetails = () => {
                       className={styles["custom-check-label"]}
                     >
                       <span>{cat.title}</span>
-                      <span className={lang === "en" ? "ms-auto" : "me-auto"}>
-                        (q 12)
-                      </span>
+                      <span className="ms-auto">(q 12)</span>
                     </label>
                   </li>
                 ))}
@@ -230,9 +228,7 @@ const CategoryDetails = () => {
                       className={styles["custom-check-label"]}
                     >
                       <span>{brand.title}</span>
-                      <span className={lang === "en" ? "ms-auto" : "me-auto"}>
-                        (q 12)
-                      </span>
+                      <span className="ms-auto">(q 12)</span>
                     </label>
                   </li>
                 ))}
@@ -312,7 +308,6 @@ const CategoryDetails = () => {
                   <Product
                     product={prod}
                     quantity={checkExistInCart(cart, prod)}
-                    to="/product"
                   />
                 </div>
               ))}
@@ -436,16 +431,14 @@ const CategoryDetails = () => {
                         className={styles["custom-check-label"]}
                       >
                         <span>{brand.title}</span>
-                        <span className={lang === "en" ? "ms-auto" : "me-auto"}>
-                          (q 12)
-                        </span>
+                        <span className="ms-auto">(q 12)</span>
                       </label>
                     </li>
                   ))}
                 </ul>
               </AccordionItem>
             </CustomAccordion>
-            {/* <div style={{ padding: "1rem 1.25rem" }} className="border-top">
+            <div style={{ padding: "1rem 1.25rem" }} className="border-top">
               <h2 className="fs-6 fw-bold text-main mb-4 d-flex align-items-center justify-content-between g1">
                 <span>Price:</span>
                 <span>
@@ -458,7 +451,7 @@ const CategoryDetails = () => {
                 onChange={({ min, max }) => setPriceRange({ min, max })}
                 classes="py-4"
               />
-            </div> */}
+            </div>
             <MainButton text="Apply" classes="mt-2 w-100" bg="alt" />
           </CustomOffcanvas>
         </div>
