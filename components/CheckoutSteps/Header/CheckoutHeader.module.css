@@ -1,0 +1,10 @@
+.checkout-header {
+  color: var(--light);
+  background-color: var(--main-color);
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.checkout-header a {
+  color: var(--light);
+}

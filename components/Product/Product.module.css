@@ -1,0 +1,77 @@
+.product {
+  color: var(--dark);
+  background-color: var(--light);
+  font-size: 1rem;
+  text-align: center;
+  transition: 0.3s ease-in-out;
+  margin: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: calc(var(--bdRadius) / 2);
+  position: relative;
+  min-height: 100px;
+  overflow: hidden;
+}
+.product:hover {
+  box-shadow: 5px 5px 7px 2px rgb(0, 0, 0, 0.08);
+}
+.image {
+  border-radius: calc(var(--bdRadius) / 2);
+  height: 200px;
+  display: block;
+  overflow: hidden;
+}
+.image img {
+  object-fit: contain;
+}
+.product h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.product:hover h3 {
+  color: var(--main-color);
+}
+.description {
+  color: var(--text-alt);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  min-height: 19px;
+}
+.price {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+.price span,
+.price del {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+  display: block;
+}
+.price span {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--main-color);
+}
+.price del {
+  font-size: 0.85rem;
+  color: var(--text-alt);
+}
+.options {
+  min-height: 40px;
+}
+@media (min-width: 576px) {
+  .options {
+    padding: 0.5rem;
+  }
+}

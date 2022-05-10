@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "label": "الكل",
+    "value": "all"
+  },
+  {
+    "id": 2,
+    "label": "الفواكه",
+    "value": "fresh fruits"
+  },
+  {
+    "id": 3,
+    "label": "اللحوم",
+    "value": "meat"
+  },
+  {
+    "id": 4,
+    "label": "الاسماك",
+    "value": "poultry"
+  },
+  {
+    "id": 5,
+    "label": "البقالة",
+    "value": "grocery"
+  },
+  {
+    "id": 6,
+    "label": "الصحة و الجمال",
+    "value": "beauty & health"
+  },
+  {
+    "id": 7,
+    "label": "المجمدات",
+    "value": "frozen"
+  },
+  {
+    "id": 8,
+    "label": "الحلويات",
+    "value": "desserts"
+  },
+  {
+    "id": 9,
+    "label": "لوازم الحيوانات الاليفة",
+    "value": "pet supplies"
+  },
+  {
+    "id": 10,
+    "label": "المخبوزات",
+    "value": "backery"
+  }
+]

@@ -1,0 +1,14 @@
+.nav {
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 .125rem .25rem rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 767px) {
+  .nav {
+    display: none;
+  }
+}
+.active {
+  color: var(--main-color) !important;
+  background-color: #e6e6e6;
+  box-shadow: 1px 1px 1px 1px #e6e6e6;
+}

@@ -1,0 +1,44 @@
+.mob-footer {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--light);
+  margin-top: 1rem;
+  border-top: 1px solid #ccc;
+}
+@media (min-width: 768px) {
+  .mob-footer {
+    display: none;
+  }
+}
+.link {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  color: #464646;
+  text-align: center;
+  position: relative;
+  font-size: 1rem;
+  transition: 0.3s ease-in-out;
+}
+.link:hover {
+  color: #464646;
+}
+.icon {
+  height: 24px;
+  line-height: 24px;
+}
+.active {
+  color: var(--main-color);
+}
+.cart {
+  position: absolute;
+  left: 50%;
+  top: -10px;
+  transform: translateX(-50%);
+}
+[dir="rtl"] .flip {
+  transform: scaleX(-1);
+}

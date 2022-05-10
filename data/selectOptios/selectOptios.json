@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "label": "All",
+    "value": "all"
+  },
+  {
+    "id": 2,
+    "label": "Fresh Fruits",
+    "value": "fresh fruits"
+  },
+  {
+    "id": 3,
+    "label": "Meat",
+    "value": "meat"
+  },
+  {
+    "id": 4,
+    "label": "Poultry",
+    "value": "poultry"
+  },
+  {
+    "id": 5,
+    "label": "Grocery",
+    "value": "grocery"
+  },
+  {
+    "id": 6,
+    "label": "Beauty & Health",
+    "value": "beauty & health"
+  },
+  {
+    "id": 7,
+    "label": "Frozen",
+    "value": "frozen"
+  },
+  {
+    "id": 8,
+    "label": "Desserts",
+    "value": "desserts"
+  },
+  {
+    "id": 9,
+    "label": "Pet Supplies",
+    "value": "pet supplies"
+  },
+  {
+    "id": 10,
+    "label": "Backery",
+    "value": "backery"
+  }
+]

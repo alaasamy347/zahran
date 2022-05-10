@@ -1,0 +1,23 @@
+.wishlist-wrapper {
+  display: flex;
+  gap: 1.25rem;
+}
+@media (max-width: 767px) {
+  .wishlist-wrapper {
+    flex-direction: column;
+  }
+}
+.share-btn {
+  font-size: 1.5rem;
+}
+.social-share {
+  position: absolute;
+  max-width: 200px;
+}
+[dir="ltr"] .social-share {
+  right: 1rem;
+}
+[dir="rtl"] .social-share {
+  right: auto;
+  left: 1rem;
+}

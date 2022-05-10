@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Fresh Fruits",
+    "titleAr": "الفواكه",
+    "imgURL": "/images/offer-5.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Vegetables",
+    "titleAr": "الخضراوات",
+    "imgURL": "/images/offer-4.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dairy",
+    "titleAr": "الالبان",
+    "imgURL": "/images/offer-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Frozen",
+    "titleAr": "المجمدات",
+    "imgURL": "/images/offer-3.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Fresh Fruits",
+    "titleAr": "الفواكه",
+    "imgURL": "/images/offer-2.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Vegetables",
+    "titleAr": "الخضراوات",
+    "imgURL": "/images/offer-1.jpg"
+  }
+]

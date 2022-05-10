@@ -1,0 +1,32 @@
+.item {
+  box-shadow: 2px 5px 12px 3px rgba(0, 0, 0, 0.2);
+  
+}
+.title {
+  color: var(--dark);
+  transition: 0.3s ease-in-out;
+}
+.title:hover {
+  color: var(--main-color);
+}
+.remove {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--main-color);
+  transition: 0.3s ease-in-out;
+}
+[dir="ltr"] .remove {
+  left: 0;
+}
+[dir="rtl"] .remove {
+  right: 0;
+}
+.remove:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,6 @@
+[dir="ltr"] .end {
+  margin-left: auto;
+}
+[dir="rtl"] .end {
+  margin-right: auto;
+}

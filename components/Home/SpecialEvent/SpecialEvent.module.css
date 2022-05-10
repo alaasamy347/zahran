@@ -1,0 +1,45 @@
+.event {
+  min-width: 120px;
+  height: 140px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border-radius: var(--bdRadius);
+  border: 1px solid #ddd;
+  background-color: #ddd;
+  color: var(--dark);
+  transition: 0.3s ease-in-out;
+  padding: 0.75rem;
+  gap: 0.5rem;
+}
+.event:hover {
+  color: var(--main-color);
+}
+.title {
+  margin: 0;
+  line-height: 1.2;
+  text-transform: capitalize;
+  font-weight: 700;
+  width: 60%;
+}
+@media (max-width: 767px) {
+  .title {
+    font-size: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .title {
+    font-size: 1.25rem;
+  }
+}
+.image {
+  flex-basis: 40%;
+  flex-grow: 1;
+}
+.image img {
+  object-fit: contain;
+  transition: 0.3s ease-in-out;
+}
+.event:hover img {
+  transform: scale(1.1)
+}

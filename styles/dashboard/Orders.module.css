@@ -1,0 +1,34 @@
+.orders-wrapper {
+  display: flex;
+  gap: 1.25rem;
+}
+@media (max-width: 767px) {
+  .orders-wrapper {
+    flex-direction: column;
+  }
+}
+.order {
+  padding: 1rem;
+  border-radius: var(--bdRadius);
+}
+.add-to-fav {
+  min-width: auto !important;
+}
+.share-btn {
+  font-size: 1.1rem;
+}
+.social-share {
+  position: absolute;
+  max-width: 200px;
+  z-index: 100;
+}
+[dir="ltr"] .social-share {
+  right: 1rem;
+}
+[dir="rtl"] .social-share {
+  right: auto;
+  left: 1rem;
+}
+.delete-button {
+  min-width: auto;
+}

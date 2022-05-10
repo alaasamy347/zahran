@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem Ipsumdolor amet",
+    "titleAR": "المنتج الاول",
+    "description": "lorem ipsum dolor",
+    "brand": "shana",
+    "category": [
+      { "id": 1, "title": "Fresh Fruits", "titleAR": "الفواكه"}
+    ],
+    "discount": "22%",
+    "defaultPrice": "3599",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/product-12.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "CLOROX",
+    "titleAR": "المنتج الثاني",
+    "description": "Full HD with Built-In Re",
+    "brand": "Clorox",
+    "category": [
+      {"id": 1, "title": "Meat", "titleAR": "اللحوم"}
+    ],
+    "discount": "29%",
+    "defaultPrice": "5199",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/product-12.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "BOURJOIS PARIS Healthy",
+    "titleAR": "المنتج الثالث",
+    "description": "Mix Anti-Fatigue Conceal",
+    "brand": "Generic",
+    "category": [
+      {"id": 1, "title": "Poultry", "titleAR": "الاسماك"}
+    ],
+    "discount": "18%",
+    "defaultPrice": "250",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Generic Digital Kitchen Scale",
+    "titleAR": "المنتج الرابع",
+    "description": "White",
+    "brand": "Fargalla",
+    "category": [
+      {"id": 1, "title": "Grocery", "titleAR": "البقالة"}
+    ],
+    "discount": "50%",
+    "defaultPrice": "218.75",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "CALL IT SPRING Mayetiola",
+    "titleAR": "المنتج الخامس",
+    "description": "Clutch Light Pink",
+    "brand": "Al Doha",
+    "category": [
+      {"id": 1, "title": "Beauty & Health", "titleAR": "الصحة و الجمال"}
+    ],
+    "discount": "49%",
+    "defaultPrice": "1009",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Abu Auf Pistachio Nut",
+    "titleAR": "المنتج السادس",
+    "description": "400grams",
+    "brand": "Abu Auf",
+    "category": [
+      {"id": 1, "title": "Grocery", "titleAR": "البقالة"}
+    ],
+    "discount": "23%",
+    "defaultPrice": "208",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/assets/images/products/product-11.webp"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "CLOROX Multi-Purpose",
+    "titleAR": "المنتج السابع",
+    "description": "Cleaner Green/Blue 1.89L",
+    "brand": "Clorox",
+    "category": [
+      {"id": 1, "title": "Frozen", "titleAR": "المجمدات"}
+    ],
+    "discount": "21%",
+    "defaultPrice": "28",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/assets/images/products/product-12.webp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Grandi 7-Piece Marble",
+    "titleAR": "المنتج الثامن",
+    "description": "Cookware Set Blue 16-20-20",
+    "brand": "Grandi",
+    "category": [
+      {"id": 1, "title": "Cookware", "titleAR": "ادوات المطبخ"}
+    ],
+    "discount": "36%",
+    "defaultPrice": "633",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/assets/images/products/product-13.webp"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Generic Beard Shaving",
+    "titleAR": "المنتج التاسع",
+    "description": "Apron Black 75x125cen",
+    "brand": "Generic",
+    "category": [
+      {"id": 1, "title": "generic", "titleAR": "عام"}
+    ],
+    "discount": "32%",
+    "defaultPrice": "240",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/assets/images/products/product-14.webp"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Mienta Uno 1 Cup Coffee",
+    "titleAR": "المنتج العاشر",
+    "description": "Maker 0.5 L 300 W CM",
+    "brand": "Mienta",
+    "category": [
+      {"id": 1, "title": "cookware", "titleAR": "ادوات المطبخ"}
+    ],
+    "discount": "9%",
+    "defaultPrice": "431",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "High Streets Floral Prayer",
+    "titleAR": "المنتج الحادي عشر",
+    "description": "Dress Grey",
+    "brand": "High Streets",
+    "category": [
+      {"id": 1, "title": "Pet Supplies", "titleAR": "لوازم الحيوانات الاليفة"}
+    ],
+    "discount": "38%",
+    "defaultPrice": "150",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SKECHERS Solar Fuse Slip-Ons",
+    "titleAR": "المنتج الثانى عشر",
+    "description": "",
+    "brand": "generic",
+    "category": [
+      {"id": 1, "title": "Backery", "titleAR": "المخبوزات"}
+    ],
+    "discount": "15%",
+    "defaultPrice": "2639",
+    "event": "ramadan",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "PUMA Classics Logo",
+    "titleAR": "المنتج الثالث عشر",
+    "description": "T-Shirt Puma Black",
+    "brand": "Puma",
+    "category": [
+      {"id": 1, "title": "Cookware", "titleAR": "ادوات المطبخ"}
+    ],
+    "discount": "58%",
+    "defaultPrice": "839",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Reebok Graphic Series",
+    "titleAR": "المنتج الرابع عشر",
+    "description": "Linear Logo T-Shirt White",
+    "brand": "Reebok",
+    "category": [
+      {"id": 1, "title": "Frozen", "titleAR": "المجمدات"}
+    ],
+    "discount": "39%",
+    "defaultPrice": "529",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "lorem test",
+    "titleAR": "المنتج الخامس عشر",
+    "description": "Charging Case White",
+    "brand": "generic",
+    "category": [
+      {"id": 1, "title": "لأثىثقهؤ", "titleAR": "عام"}
+    ],
+    "discount": "16%",
+    "defaultPrice": "3339",
+    "event": "top-deals",
+    "images": [
+      {
+        "id": 1,
+        "imgURL": "/images/p-1.png"
+      },
+      {
+        "id": 2,
+        "imgURL": "/images/p-2.jpg"
+      }
+    ]
+  }
+]

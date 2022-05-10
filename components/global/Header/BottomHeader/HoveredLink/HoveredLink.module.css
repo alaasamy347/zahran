@@ -1,0 +1,12 @@
+.nav-link {
+  display: block;
+  line-height: 1.1;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: var(--dark);
+  transition: 0.3s ease-in-out;
+  position: relative;
+}
+.nav-link:hover {
+  color: var(--main-color);
+}

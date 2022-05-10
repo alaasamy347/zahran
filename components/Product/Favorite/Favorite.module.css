@@ -1,0 +1,25 @@
+.fav {
+  position: absolute;
+  top: 0;
+  margin: 1rem;
+  font-size: 1.25rem;
+  background-color: transparent;
+  cursor: pointer;
+  z-index: 3;
+  padding: 0;
+  line-height: 1;
+  border: none;
+}
+[dir="ltr"] .end {
+  right: 0;
+}
+[dir="rtl"] .end {
+  right: auto;
+  left: 0;
+}
+.main {
+  color: var(--main-color);
+}
+.alt {
+  color: var(--dark);
+}

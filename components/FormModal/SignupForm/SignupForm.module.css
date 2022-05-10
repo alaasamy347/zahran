@@ -1,0 +1,33 @@
+.wrapper {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title {
+  text-align: center;
+  color: var(--main-color);
+}
+.sign-up {
+  font-size: 0.85rem;
+  text-align: center;
+}
+.sign-up span {
+  color: var(--main-color);
+  cursor: pointer;
+}
+.show-password {
+  color: #777;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+  width: 40px;
+}
+[dir="ltr"] .show-password {
+  right: 0px;
+}
+[dir="rtl"] .show-password {
+  right: auto;
+  left: 0px;
+}

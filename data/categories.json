@@ -1,0 +1,6158 @@
+[
+  {
+    "id": 1,
+    "title": "All Categories",
+    "title-ar": "جميع الفئات",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "fresh fruits",
+    "title-ar": "الفواكه",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-2.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Meat",
+    "title-ar": "اللحوم",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Grocery",
+    "title-ar": "البقالة",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-2.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Beauty & Health",
+    "title-ar": "الصحة و الجمال",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Frozen",
+    "title-ar": "المجمدات",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-2.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "title": "Desserts",
+    "title-ar": "الحلويات",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "pet supplies",
+    "title-ar": "لوازم الحيوانات",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-2.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Backery",
+    "title-ar": "المخبوزات",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Poultry",
+    "title-ar": "الاسماك",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "title": "CookWare",
+    "title-ar": "ادوات المطبخ",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Generic",
+    "title-ar": "عام",
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "fresh fruits",
+        "title-ar": "الفواكه",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Meat & Poultry",
+        "title-ar": "اللحوم و الاسماك",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Grocery",
+        "title-ar": "الخضار",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backery",
+        "title-ar": "المخبوزات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Frozen",
+        "title-ar": "المجمدات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Desserts",
+        "title-ar": "الحلويات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "pet supplies",
+        "title-ar": "لوازم الحيوانات",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Beauty & Health",
+        "title-ar": "الصحة و الجمال",
+        "sub": [
+          {
+            "id": 1,
+            "title": "Department One",
+            "title-ar": "القسم الاول"
+          },
+          {
+            "id": 2,
+            "title": "Department Two",
+            "title-ar": "القسم الثاني"
+          },
+          {
+            "id": 3,
+            "title": "Department Three",
+            "title-ar": "القسم الثالث"
+          },
+          {
+            "id": 4,
+            "title": "Department Four",
+            "title-ar": "القسم الرابع"
+          },
+          {
+            "id": 5,
+            "title": "Department Five",
+            "title-ar": "القسم الخامس"
+          },
+          {
+            "id": 6,
+            "title": "Department Six",
+            "title-ar": "القسم السادس"
+          },
+          {
+            "id": 7,
+            "title": "Department Seven",
+            "title-ar": "القسم السابع"
+          },
+          {
+            "id": 8,
+            "title": "Department Eight",
+            "title-ar": "القسم الثامن"
+          },
+          {
+            "id": 9,
+            "title": "Department Nine",
+            "title-ar": "القسم التاسع"
+          },
+          {
+            "id": 10,
+            "title": "Department Ten",
+            "title-ar": "القسم العاشر"
+          }
+        ]
+      }
+    ],
+    "topBrands": {
+      "catImg": "/images/cat-img-1.jpg",
+      "brands": [
+        {
+          "id": 1,
+          "title": "One",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 2,
+          "title": "Two",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 3,
+          "title": "Three",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 4,
+          "title": "Four",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 5,
+          "title": "Five",
+          "imgURL": "/images/braun.png"
+        },
+        {
+          "id": 6,
+          "title": "Six",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 7,
+          "title": "Seven",
+          "imgURL": "/images/loreal.png"
+        },
+        {
+          "id": 8,
+          "title": "Eight",
+          "imgURL": "/images/tefal-brand.png"
+        },
+        {
+          "id": 9,
+          "title": "Nine",
+          "imgURL": "/images/braun.png"
+        }
+      ]
+    }
+  }
+]

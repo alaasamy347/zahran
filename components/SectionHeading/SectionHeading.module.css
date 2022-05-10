@@ -1,0 +1,26 @@
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 575px) {
+  .heading {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+@media (min-width: 576px) {
+  .heading {
+    justify-content: space-between;
+  }
+}
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-size: calc(1.3rem + .6vw);
+  line-height: 1.2;
+  color: var(--dark);
+}

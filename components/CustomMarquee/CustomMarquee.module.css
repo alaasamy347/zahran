@@ -1,0 +1,19 @@
+.marquee {
+  width: 100%;
+  font-size: 1rem;
+  color: var(--main-color);
+  background-color: #f9f8f8;
+  box-shadow: 0 .25rem .25rem rgba(0, 0, 0, 0.075);
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+@media (max-width: 767px) {
+  .marquee {
+    font-size: 0.9rem;
+  }
+}
+@media (min-width: 768px) {
+  .marquee {
+    font-size: 1.25rem;
+  }
+}

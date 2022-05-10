@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "Mohamed",
+      "lastName": "Mahrous",
+      "email": "test@test.com",
+      "mobile": "00123456789",
+      "hash": "$2a$10$kLU/3diwHrKL7ybgKr9JxuAPM12C93yEeL1NUTK66CYr0svlRgMAC",
+      "id": 1,
+      "dateCreated": "2022-04-24T08:13:35.835Z",
+      "dateUpdated": "2022-04-24T08:13:35.835Z"
+    }
+  ],
+  "cart": {
+    "status": "",
+    "cart": []
+  }
+}

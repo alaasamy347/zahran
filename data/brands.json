@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "tefal",
+    "imgURL": "/images/tefal-brand.png"
+  },
+  {
+    "id": 2,
+    "title": "loreal",
+    "imgURL": "/images/loreal.png"
+  },
+  {
+    "id": 3,
+    "title": "braun",
+    "imgURL": "/images/braun.png"
+  },
+  {
+    "id": 4,
+    "title": "tefal",
+    "imgURL": "/images/tefal-brand.png"
+  },
+  {
+    "id": 5,
+    "title": "loreal",
+    "imgURL": "/images/loreal.png"
+  },
+  {
+    "id": 6,
+    "title": "braun",
+    "imgURL": "/images/braun.png"
+  },
+  {
+    "id": 7,
+    "title": "tefal",
+    "imgURL": "/images/tefal-brand.png"
+  },
+  {
+    "id": 8,
+    "title": "loreal",
+    "imgURL": "/images/loreal.png"
+  },
+  {
+    "id": 9,
+    "title": "braun",
+    "imgURL": "/images/braun.png"
+  }
+]

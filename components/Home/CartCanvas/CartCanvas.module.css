@@ -1,0 +1,10 @@
+.clear {
+  display: block;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  transition: 0.3s ease-in-out;
+  color: var(--dark) !important;
+}
+.clear:hover {
+  color: var(--main-color) !important;
+}

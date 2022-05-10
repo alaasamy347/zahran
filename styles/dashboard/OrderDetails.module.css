@@ -1,0 +1,41 @@
+.order-wrapper {
+  padding: 1rem;
+  border-radius: var(--bdRadius);
+  box-shadow: rgb(0 0 0 / 20%) 0px 3px 5px -1px,
+    rgb(0 0 0 / 14%) 0px 6px 10px 0px, rgb(0 0 0 / 12%) 0px 1px 18px 0px;
+  margin-bottom: 1.25rem;
+}
+@media (min-width: 992px) {
+  .order-wrapper {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.order {
+  background-color: #fafafa;
+  padding: 1rem;
+  border-radius: var(--bdRadius);
+}
+.review {
+  margin-bottom: 1.25rem;
+}
+.review textarea {
+  margin-top: 1rem;
+  resize: none;
+  width: 100%;
+  height: 150px;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: var(--bdRadius);
+  box-shadow: rgb(0 0 0 / 20%) 0px 3px 5px -1px,
+    rgb(0 0 0 / 14%) 0px 6px 10px 0px, rgb(0 0 0 / 12%) 0px 1px 18px 0px;
+}
+@media (max-width: 767px) {
+  .back {
+    position: fixed;
+    bottom: 80px;
+    right: 1.5rem;
+    z-index: 200;
+  }
+}

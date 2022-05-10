@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Grocery Products",
+    "titleAR": "منتجات البقالة",
+    "imgURL": "/images/Cat-Sub550x180.jpg",
+    "subProducts": [
+      {
+        "id": 1,
+        "title": "Product One",
+        "titleAR": "المنتج الاول",
+        "imgURL": "/images/sub-prod-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Product Two",
+        "titleAR": "المنتج الثاني",
+        "imgURL": "/images/sub-prod-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Product Three",
+        "titleAR": "المنتج الثالث",
+        "imgURL": "/images/sub-prod-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Product One",
+        "titleAR": "المنتج الاول",
+        "imgURL": "/images/sub-prod-1.png"
+      },
+      {
+        "id": 5,
+        "title": "Product Two",
+        "titleAR": "المنتج الثاني",
+        "imgURL": "/images/sub-prod-2.png"
+      },
+      {
+        "id": 6,
+        "title": "Product Three",
+        "titleAR": "المنتج الثالث",
+        "imgURL": "/images/sub-prod-3.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dairy Products",
+    "titleAR": "منتجات الالبان",
+    "imgURL": "/images/dairy-550x180-.jpg",
+    "subProducts": [
+      {
+        "id": 1,
+        "title": "Product One",
+        "titleAR": "المنتج الاول",
+        "imgURL": "/images/sub-prod-4.png"
+      },
+      {
+        "id": 2,
+        "title": "Product Two",
+        "titleAR": "المنتج الثاني",
+        "imgURL": "/images/sub-prod-5.png"
+      },
+      {
+        "id": 3,
+        "title": "Product Three",
+        "titleAR": "المنتج الثالث",
+        "imgURL": "/images/sub-prod-6.png"
+      },
+      {
+        "id": 4,
+        "title": "Product One",
+        "titleAR": "المنتج الاول",
+        "imgURL": "/images/sub-prod-4.png"
+      },
+      {
+        "id": 5,
+        "title": "Product Two",
+        "titleAR": "المنتج الثاني",
+        "imgURL": "/images/sub-prod-5.png"
+      },
+      {
+        "id": 6,
+        "title": "Product Three",
+        "titleAR": "المنتج الثالث",
+        "imgURL": "/images/sub-prod-6.png"
+      }
+    ]
+  }
+]

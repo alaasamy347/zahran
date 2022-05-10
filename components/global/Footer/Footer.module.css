@@ -1,0 +1,82 @@
+.main-footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: var(--main-color);
+  color: var(--light);
+}
+@media (max-width: 767px) {
+  .main-footer {
+    display: none;
+  }
+}
+@media (max-width: 1399px) {
+  .main-footer a {
+    font-size: 0.8rem;
+  }
+}
+.main-footer a:hover {
+  color: var(--light);
+}
+[dir="rtl"] .phone {
+  transform: scale(-1) rotate(70deg);
+}
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem !important;
+  border-radius: calc(var(--bdRadius) / 2);
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+@media (max-width: 1399px) {
+  .social {
+    width: 30px;
+    height: 30px;
+  }
+}
+@media (min-width: 1400px) {
+  .social {
+    width: 40px;
+    height: 40px;
+  }
+}
+.facebook,
+.twitter,
+.instagram {
+  color: var(--light);
+  background-color: transparent;
+  border: 1px solid var(--light);
+}
+.facebook:hover {
+  border-color: #1877f2;
+  background-color: #1877f2;
+}
+.twitter:hover {
+  border-color: #1da1f2;
+  background-color: #1da1f2;
+}
+.instagram:hover {
+  border-color: #f77737;
+  background-color: #f77737;
+}
+.bottom-footer {
+  background-color: var(--light);
+  font-size: 0.9rem;
+}
+.mark {
+  color: var(--main-color);
+  font-weight: 700;
+}
+.mark:hover {
+  color: var(--main-color);
+}
+.have-question {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  background-color: var(--main-color);
+  gap: 0.75rem;
+}

@@ -1,0 +1,16 @@
+.cart-item-container {
+  height: 50vh;
+  overflow: auto;
+}
+.show {
+  display: inline-block;
+  color: var(--dark);
+  font-size: 1rem;
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-weight: 600;
+  transition: .3s all ease-in;
+}
+.show:hover {
+  color: var(--main-color);
+}

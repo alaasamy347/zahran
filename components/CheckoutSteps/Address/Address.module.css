@@ -1,0 +1,56 @@
+.login {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem;
+  border-radius: var(--bdRadius);
+  border: 1px solid #ddd;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+    rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+  margin-bottom: 1.25rem;
+}
+.details-wrapper,
+.address-wrapper {
+  padding: 1rem;
+  border-radius: var(--bdRadius);
+  border: 1px solid #ddd;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+    rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+}
+.details-wrapper {
+  margin-bottom: 1.25rem;
+}
+@media (min-width: 768px) {
+  .address-wrapper {
+    margin-bottom: 1.25rem;
+  }
+}
+.get-location {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+.mobile-action {
+  display: flex;
+  grid-gap: 1rem;
+  gap: 1rem;
+  border-top: 1px solid #ddd;
+  background-color: var(--light);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
+  align-items: center;
+  padding: 0.5rem;
+}
+@media (min-width: 768px) {
+  .mobile-action {
+    display: none;
+  }
+}
