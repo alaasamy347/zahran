@@ -116,9 +116,10 @@ img {
 /* Buttons */
 .slick-prev:before,
 .slick-next:before {
-  content: none !important; 
+  content: none !important;
 }
-.slick-prev, .slick-next {
+.slick-prev,
+.slick-next {
   font-size: 30px !important;
   width: 50px !important;
   height: 50px !important;
@@ -133,20 +134,22 @@ img {
   border: 1px solid var(--main-color) !important;
   z-index: 4;
 }
-.small-arrows .slick-prev, .small-arrows .slick-next {
+.small-arrows .slick-prev,
+.small-arrows .slick-next {
   font-size: 12px !important;
   width: 30px !important;
   height: 30px !important;
 }
-.slick-prev:hover, .slick-next:hover {
+.slick-prev:hover,
+.slick-next:hover {
   background-color: var(--light) !important;
   color: var(--main-color) !important;
 }
-[dir='rtl'] .slick-next {
+[dir="rtl"] .slick-next {
   left: auto !important;
   right: 30px !important;
 }
-[dir='rtl'] .small-arrows .slick-next {
+[dir="rtl"] .small-arrows .slick-next {
   left: auto !important;
   right: 10px !important;
 }
@@ -169,14 +172,16 @@ img {
   left: 10px !important;
 }
 @media (max-width: 1199px) {
-  .slick-prev, .slick-next {
+  .slick-prev,
+  .slick-next {
     display: none !important;
   }
 }
-.small-arrows .slick-prev, .small-arrows .slick-next {
+.small-arrows .slick-prev,
+.small-arrows .slick-next {
   display: flex !important;
 }
-[dir='rtl'] .outside-slick-arrows .slick-next {
+[dir="rtl"] .outside-slick-arrows .slick-next {
   left: auto !important;
   right: -30px !important;
 }
@@ -190,7 +195,7 @@ img {
   left: -30px !important;
 }
 /* Dots */
-[dir='rtl'] .slick-dots {
+[dir="rtl"] .slick-dots {
   direction: rtl;
 }
 .slick-dots {
@@ -283,17 +288,21 @@ img {
   color: var(--main-color) !important;
   font-weight: 700;
 }
-.custom-select .react-dropdown-select-item.react-dropdown-select-item-selected::after {
+.custom-select
+  .react-dropdown-select-item.react-dropdown-select-item-selected::after {
   content: "\2713";
   position: absolute;
-  
 }
-[dir="ltr"] .custom-select .react-dropdown-select-item.react-dropdown-select-item-selected::after {
+[dir="ltr"]
+  .custom-select
+  .react-dropdown-select-item.react-dropdown-select-item-selected::after {
   right: 0;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
-[dir="rtl"] .custom-select .react-dropdown-select-item.react-dropdown-select-item-selected::after {
+[dir="rtl"]
+  .custom-select
+  .react-dropdown-select-item.react-dropdown-select-item-selected::after {
   left: 0;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
@@ -328,4 +337,7 @@ img {
 [aria-live="assertive"] {
   margin: 0 !important;
   width: auto !important;
+}
+div.grammarly-desktop-integration {
+  margin: 0 !important;
 }
